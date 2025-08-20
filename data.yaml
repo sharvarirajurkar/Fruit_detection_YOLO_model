@@ -1,0 +1,5 @@
+train: path_to_training_images
+val: path_to_val
+
+nc: 11
+names: ['apple', 'avocado', 'blueberry', 'capsicum', 'cherry', 'kiwi', 'mango', 'orange', 'rockmelon', 'strawberry', 'wheat']
