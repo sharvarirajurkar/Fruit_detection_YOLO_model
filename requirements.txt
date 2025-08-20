@@ -1,0 +1,7 @@
+ultralytics>=8.0.0
+kaggle
+matplotlib
+pandas
+opencv-python
+torch
+torchvision
